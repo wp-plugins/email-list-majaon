@@ -9,7 +9,7 @@ Stable tag: 0.1
 == Description ==
 
 Plugin can uses for showing list of emails, that people typed in your Contact form (or wanted to add emails to subscribers list)
-A few notes about the sections above:
+
 
 
 == Installation ==
