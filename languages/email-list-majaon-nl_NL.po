@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: email-list-majaon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-25 16:24+0200\n"
+"PO-Revision-Date: 2010-09-25 16:24+0200\n"
+"Last-Translator: Vitaly <info@majaon.com>\n"
+"Language-Team: Majaon <info@majaon.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../email-list-majaon.php:98
+msgid "User updated"
+msgstr "Gebruiker bijgewerkt"
+
+#: ../email-list-majaon.php:105
+msgid "User removed"
+msgstr "Gebruiker verwijderd"
+
+#: ../email-list-majaon.php:111
+msgid "E-mails list Majaon"
+msgstr "E-mails lijst Majaon"
+
+#: ../email-list-majaon.php:113
+#, fuzzy
+msgid "E-mails list"
+msgstr "E-mails lijst"
+
+#: ../email-list-majaon.php:124
+msgid "Name"
+msgstr "Naam"
+
+#: ../email-list-majaon.php:125
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../email-list-majaon.php:126
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: ../email-list-majaon.php:128
+msgid "Action"
+msgstr "Actie"
+
+#: ../email-list-majaon.php:167
+msgid "Plugin developed"
+msgstr "Plugin ontwikkeld"
+
+#: ../email-list-majaon.php:171
+msgid "By: <a href=\"http://majaon.com/\" target=\"_blank\">Majaon 2010 majaon.com</a>"
+msgstr "Door: <a href=\"http://majaon.com/\" target=\"_blank\">Majaon 2010 majaon.com</a>"
+
